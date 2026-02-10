@@ -1,1 +1,2 @@
 Commit 3 - adding line
+Commit 6 - adding line

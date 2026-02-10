@@ -4,3 +4,7 @@ Automation and continuous integration help reduce errors and delays.
 
 DevOps improves efficiency in the Software Development Life Cycle.
 It promotes collaboration and continuous feedback.
+
+DevOps practices help remove siloed communication during releases.
+
+Understanding SDLC with DevOps prepares students for industry expectations.

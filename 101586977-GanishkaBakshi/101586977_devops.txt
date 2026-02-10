@@ -1,3 +1,4 @@
-Commit 2 - adding line
-Commit 5 - adding line
-Commit 8 - adding line
+COMP 2156 is all about DevOps – basically learning how development and operations work together. 
+You get to play with Git, set up automated workflows, try out continuous integration and deployment, 
+and even use Docker for containers. The course also shows you how to use tools like Jira to manage projects. 
+It’s really about learning how teams can work faster and smarter when building software.

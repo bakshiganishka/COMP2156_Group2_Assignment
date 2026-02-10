@@ -1,3 +1,4 @@
-Commit 3 - adding line
-Commit 6 - adding line
-Commit 9 - adding line
+Learning DevOps is a big deal for anyone working in software because it connects the developers with the operations side. 
+It helps teams work together, automates boring stuff, and gets software out faster. 
+When you know DevOps, you can manage continuous integration, delivery, and make sure apps run smoothly. 
+It basically makes life easier for both teams and customers, and it’s a skill that’s super valuable in the real world.

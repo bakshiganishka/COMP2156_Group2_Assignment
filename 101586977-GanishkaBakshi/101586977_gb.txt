@@ -1,4 +1,5 @@
-Commit 1 - adding line
-Commit 4 - adding line
-Commit 7 - adding line
-Commit 10 - adding line
+George Brown College is one of the coolest colleges in Toronto. 
+They have all kinds of programs like business, tech, health, and design. 
+What’s great is that it’s super hands-on – you don’t just sit in lectures all day. 
+You get to work in labs, do projects, and even get real-world experience through internships. 
+Plus, they have lots of connections with companies in the city, so it’s easier to land jobs or co-op positions after you graduate.

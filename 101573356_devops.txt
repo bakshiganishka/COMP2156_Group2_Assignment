@@ -2,3 +2,4 @@ COMP 2156 is focused on DevOps for system administration.
 It covers Git/GitHub workflows, collaboration, automation, and CI/CD fundamentals.
 DevOps helps teams deliver changes faster by improving communication and process automation.
 Continuous Integration (CI) automatically builds and tests code after each push.
+Common DevOps tools include Git, GitHub Actions, Linux scripting, and containers such as Docker.

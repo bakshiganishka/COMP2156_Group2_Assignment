@@ -1,2 +1,3 @@
 Commit 1 - adding line
 Commit 4 - adding line
+Commit 7 - adding line

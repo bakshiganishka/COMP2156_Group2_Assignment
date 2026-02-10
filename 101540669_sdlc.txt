@@ -1,0 +1,6 @@
+DevOps plays an important role in the Software Development Life Cycle.
+It improves collaboration between development and operations teams.
+Automation and continuous integration help reduce errors and delays.
+
+DevOps improves efficiency in the Software Development Life Cycle.
+It promotes collaboration and continuous feedback.

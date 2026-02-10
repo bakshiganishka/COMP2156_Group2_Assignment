@@ -1,0 +1,14 @@
+name: Simple CI
+
+on:
+  push:
+    branches: [ main, 101586977-GanishkaBakshi ]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+      - name: Run a test
+        run: echo "CI workflow is working!"

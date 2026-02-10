@@ -1,0 +1,9 @@
+COMP 2156 introduces students to DevOps concepts and practices.
+The course covers Git, GitHub, CI/CD, and collaboration tools.
+DevOps helps improve software quality and delivery speed.
+
+COMP 2156 introduces DevOps concepts and tools.
+The course covers Git, GitHub, and CI/CD pipelines.
+
+The course emphasizes real-world tools and continuous integration best practices.
+

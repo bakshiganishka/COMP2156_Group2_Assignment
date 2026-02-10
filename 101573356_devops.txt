@@ -1,0 +1,2 @@
+COMP 2156 is focused on DevOps for system administration.
+It covers Git/GitHub workflows, collaboration, automation, and CI/CD fundamentals.

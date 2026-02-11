@@ -2,4 +2,5 @@ COMP2156 Devops for system Administration focuses on version control CI/CD pipel
 collaboration using tools like Git and GitHub. The course helps students understand modern Devops practice.
 It is designed to bridge the gap between software development and IT operations by focusing on modern 
 automation. The COMP2156 provides hand-on experience with the Devops lifecycle, teaching students how 
-to manage and automate software delivery.  
+to manage and automate software delivery.
+Students gain experience with CI/CD pipelines, automation, and teamwork.  

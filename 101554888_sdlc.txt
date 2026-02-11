@@ -2,3 +2,4 @@ Learning Devops is important in the software development life cycle because it i
 between development and operations teams. Devops enables faster releases, better quality and automation.
 Devops is more than just workflow. its cultural shift that redefines how software is built and maintained.
 Its lifecycle and core principle that make it effective.
+Devops practices help reduce deployment errors and improve system reliability.

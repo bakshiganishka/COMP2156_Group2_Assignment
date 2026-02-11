@@ -7,3 +7,6 @@ The course covers Git, GitHub, and CI/CD pipelines.
 
 The course emphasizes real-world tools and continuous integration best practices.
 
+DevOps encourages shared responsibility and better communication across technical teams.
+
+DevOps also includes monitoring and logging to ensure system stability after deployment.

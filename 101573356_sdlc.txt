@@ -1,0 +1,4 @@
+DevOps improves the Software Development Life Cycle (SDLC) by connecting development and operations together.
+It supports continuous integration, automated testing, and reliable deployments.
+Automation reduces manual errors and makes releases more consistent across environments.
+Monitoring and logging provide feedback after deployment and support continuous improvement.

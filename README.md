@@ -2,7 +2,7 @@
 
 ## Group Members
 - 101586977 Ganishka Bakshi
-- Sukul
+- Kanika Patel(sukul1008)-[101554888]
 - Samyak
 - Aayush
 

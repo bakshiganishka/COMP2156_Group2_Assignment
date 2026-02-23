@@ -3,7 +3,7 @@
 ## Group Members
 - 101586977 Ganishka Bakshi
 - Kanika Patel(sukul1008)-[101554888]
-- Samyak
+- 101540669 Samyak
 - 101573356 Aayush Patel
 
 ## Assignment Description

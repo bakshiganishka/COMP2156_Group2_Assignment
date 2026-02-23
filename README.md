@@ -4,7 +4,7 @@
 - 101586977 Ganishka Bakshi
 - Kanika Patel(sukul1008)-[101554888]
 - Samyak
-- Aayush
+- 101573356 Aayush Patel
 
 ## Assignment Description
 This repository contains our group work for COMP 2156. 
